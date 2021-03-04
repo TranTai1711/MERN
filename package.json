@@ -1,0 +1,22 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranTai1711/MERN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranTai1711/MERN/issues"
+  },
+  "homepage": "https://github.com/TranTai1711/MERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
